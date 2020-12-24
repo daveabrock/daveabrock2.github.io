@@ -3,10 +3,8 @@ date: "2020-12-19"
 title: "The .NET Stacks #30: 🥂 See ya, 2020"
 tags: [dotnet-stacks]
 comments: false
-header:
-    overlay_image: /assets/assets/img/see-ya-2020.png
-    overlay_filter: 0.8
-excerpt: This week, we wrap up 2020 with some news, a look back, and a coding tip.
+share-img: /assets/img/see-ya-2020.png 
+share-description: This week, we wrap up 2020 with some news, a look back, and a coding tip.
 ---
 
 ![Newsletter image](/assets/img/newsletter-header.png)
