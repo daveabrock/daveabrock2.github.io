@@ -1,0 +1,70 @@
+---
+date: "2018-12-28"
+title: "How 2018 Went"
+tags: [personal]
+---
+
+
+I'm not a fan of resolutions—**how very waterfall-y**. In this fail-fast agile culture we live in now, that's a long time to wait to fix things. But since it is the end of the year—a great time for downtime and reflection—it's only natural to take a look back at how the last 365 days went.
+
+Here's why I especially like this exercise: for a lot of us, it's so easy to be self-critical. It's very important to learn and grow from your mistakes but equally important to understand and reflect on your accomplishments.
+
+## A mission to become active in the community
+
+In 2018, I made it my mission to become active in the community.
+
+Why? Here are my reasons:
+
+* **Learn by doing**: I learn much more when releasing something out into the world
+* **Meeting great people**: You can reach out to others, make friends, and get out of your bubble by drawing on other's experiences
+* **Help others**: The developer community has helped me throughout my career and I love being able to do the same
+* **Your job**: You and your employer benefit greatly from all your work
+
+While I previously enjoyed engaging with the community—a talk here, a post there—I largely was a consumer. At this point in my career, I wanted to give back and help others.
+
+I'm proud to say I reached thousands of developers in 2018 with conference talks, blog posts, and open-source community contributions.
+
+### Blogging contributions
+
+Did you know before I went into software development, I [was a technical writer?](https://www.linkedin.com/in/daveabrock) True story. In 2018, I really enjoyed mixing my writing experience with technical expertise to help developers across the globe.
+
+I initially started blogging so I could fill knowledge gaps while preparing for conference talks. As a result, I was pleasantly surprised to learn that my posts reached more people than I would have ever imagined. This reinforced one of my core beliefs: **if you learn something, never keep it to yourself**. Share it with your friend, your team, or—even better—the world.
+
+Here's a list of my most popular posts this year, according to Google Analytics.
+
+* [Full-Stack Development in Visual Studio Code with ASP.NET Core](https://daveabrock.com/2018/03/05/full-stack-development-in-vs-code-with-asp-net-core)
+* [Level Up Your GitHub Experience with Chrome Extensions](https://daveabrock.com/2018/11/26/level-up-github-experience-with-chrome-extensions)
+* [Share Blazor Components with Shared Class Libraries](https://daveabrock.com/2018/11/12/using-blazor-shared-libraries)
+* [Razor Support for ASP.NET Core Apps in Visual Studio Code](https://daveabrock.com/2018/11/19/net-core-apps-in-visual-studio-code-now-have-razor-support)
+* [JavaScript Scope Can Be Tricky](https://daveabrock.com/2018/04/30/javascript-scope-can-be-tricky)
+
+#### Speaking events
+
+Much like a lot of people, public speaking used to frighten me. I could always speak casually at work, but when I was in front of people everything changed. It was so difficult for me I started to worry about it harming my career.
+
+I tried a casual lunch session at work in front of friends and co-workers. It wasn't pretty at first, but I was happy to conquer my fears head-on. As I kept speaking and my confidence grew I also came to a realization: **I actually like doing this**.
+
+For example, at Twin Cities Code Camp in April I spoke in front of about 100 people—my first time in a group this large. It was a great feeling to not be completely mortified of public speaking anymore.
+
+I'm not a great speaker by any means, but I'm getting better after every talk I give. It's time-consuming, exhausting, and sometimes scary. But when someone comes up to you after a talk and thanks you for teaching them something new, it's all worth it.
+
+In 2018, I spoke at these events:
+
+* South Florida Code Camp
+* Twin Cities Code Camp
+* Central Wisconsin IT Conference
+* MADdotNET (.NET user group in Madison, WI)
+* Milwaukee Code Camp
+* Chicago C# Developers Group
+
+#### Open-source contributions
+
+As a developer in the .NET space, it's great to see how Microsoft has transformed into an open and inclusive culture. For example, if you see an issue or content gap with developer documentation you are empowered to suggest a fix or even do it yourself.
+
+I made a lot of contributions to the [ASP.NET Core documentation](https://docs.microsoft.com/en-us/aspnet/core) this year—and in total, **I had 38 pull requests merged and live**. Obviously, some of them were cosmetic (I'm not immune to a "typo fix" commit) but was happy to be a big community contributor to the documentation this year.
+
+The entire ASP.NET Core Docs team deserves a lot of praise for living open source (I've personally worked with [Rick Anderson](https://twitter.com/RickAndMSFT) and [Scott Addie](https://twitter.com/Scott_Addie) the most on that team). It isn't easy being out in the open, but they live it and are truly community-driven.
+
+### Looking ahead
+
+It was great being a part of the community this year, and hope to make 2019 even more impactful. If you have any feedback for me—including talk ideas or general suggestions—let me know!
