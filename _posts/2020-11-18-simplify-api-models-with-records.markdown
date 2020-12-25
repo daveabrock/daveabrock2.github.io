@@ -1,11 +1,9 @@
 ---
 date: "2020-11-18"
 title: "Simplify your ASP.NET Core API models with C# 9 records"
-excerpt: "In this post, a quick tip about how to use records to simplify your API models."
+subtitle: "In this post, a quick tip about how to use records to simplify your API models."
 tags: [aspnet-core]
-header:
-    overlay_image: /assets/assets/img/record-models.png
-    overlay_filter: 0.8
+share-img: /assets/img/record-models.png
 ---
 
 Out of all the new capabilities C# 9 brings, [records are my favorite](https://daveabrock.com/2020/07/06/c-sharp-9-deep-dive-records). With positional syntax, they are [immutable by default](https://daveabrock.com/2020/11/02/csharp-9-records-immutable-default), which makes working with data classes a snap. I love the possibility of maintaining mutable state in C# where appropriate, like for business logic, and maintaining immutability (and data equality!) with records.

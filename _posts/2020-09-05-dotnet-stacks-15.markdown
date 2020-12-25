@@ -3,13 +3,11 @@ date: "2020-09-05"
 title: "The .NET Stacks #15: The final preview and ML.NET with Luis Quintanilla"
 tags: [dotnet-stacks]
 comments: false
-header:
-    overlay_image: /assets/assets/img/stacks-15-card.png
-    overlay_filter: 0.8
-excerpt: We discuss the final .NET preview, talk about ML.NET with Luis Quintanilla, and more!
+share-img: /assets/img/stacks-15-card.png
+subtitle: We discuss the final .NET preview, talk about ML.NET with Luis Quintanilla, and more!
 ---
 
-![Newsletter image](/assets/img/newsletter-header.png)
+![Newsletter image](https://daveabrock.com/THE .NET STACKS.png)
 
 Welcome to the start of another week—I hope you are well and safe. We had an insanely busy week in the .NET world, so let's get to it.
 

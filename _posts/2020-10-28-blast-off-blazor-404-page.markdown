@@ -1,13 +1,9 @@
 ---
 date: "2020-10-28"
 title: "Blast Off with Blazor: Learn components and testing with a custom 404 page"
-excerpt: "In the latest post, we'll write our first component and get acclimated with bUnit."
+subtitle: "In the latest post, we'll write our first component and get acclimated with bUnit."
 tags: [blazor, aspnet-core]
-header:
-    overlay_image: /assets/assets/img/404-card.png
-    overlay_filter: 0.8
-toc: true
-toc_label: "Our custom NotFound component"
+share-img: /assets/img/404-card.png
 ---
 
 I hope you enjoyed the [introduction to our *Blast Off with Blazor* project](https://daveabrock.com/2020/10/26/blast-off-blazor-intro). It's time to get to work!

@@ -1,11 +1,9 @@
 ---
 date: "2020-09-05"
 title: "Dev Discussions - Luis Quintanilla (2 of 2)"
-excerpt: We continue our talk with Luis Quintanilla about ML.NET.
+subtitle: We continue our talk with Luis Quintanilla about ML.NET.
 tags: [dotnet-stacks, dev-discussions]
-header:
-    overlay_image: /assets/assets/img/dev-discussions-luis.png
-    overlay_filter: 0.8
+share-img: /assets/img/dev-discussions-luis.png
 ---
 
 This is the full interview from my discussion with Luis Quintanilla in my weekly (free!) newsletter, *The .NET Stacks*. Consider [subscribing today](https://dotnetstacks.com)!

@@ -3,10 +3,8 @@ date: "2020-06-20"
 title: "The .NET Stacks #5: gRPC-Web, play with C# 9, .NET Foundation, community roundup!"
 tags: [dotnet-stacks]
 comments: false
-excerpt: A rundown on gRPC-web and how to play with the C# 9 bits today!
-header:
-    overlay_image: /assets/assets/img/stacks-5-card.png
-    overlay_filter: 0.8
+subtitle: A rundown on gRPC-web and how to play with the C# 9 bits today!
+share-img: /assets/img/stacks-5-card.png
 ---
 
 This is an archive of my weekly (free!) newsletter, *The .NET Stacks*. Consider [subscribing today](https://dotnetstacks.com) to get this content right away! Subscribers don't have to wait a week to receive the content.

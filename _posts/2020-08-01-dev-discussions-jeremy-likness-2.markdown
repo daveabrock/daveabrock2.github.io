@@ -1,11 +1,9 @@
 ---
 date: "2020-08-01"
 title: "Dev Discussions - Jeremy Likness (2 of 2)"
-excerpt: We continue our discussion with Jeremy Likness, the senior PM of .NET Data at Microsoft.
+subtitle: We continue our discussion with Jeremy Likness, the senior PM of .NET Data at Microsoft.
 tags: [dotnet-stacks, dev-discussions]
-header:
-    overlay_image: /assets/assets/img/likness-2-card.png
-    overlay_filter: 0.8
+share-img: /assets/img/likness-2-card.png
 ---
 
 This is the full interview from my discussion with Jeremy Likness in my weekly (free!) newsletter, *The .NET Stacks*. Consider [subscribing today](https://dotnetstacks.com) to get this content right away!

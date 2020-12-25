@@ -3,13 +3,11 @@ date: "2020-09-19"
 title: "The .NET Stacks #17: EF Core 5, Blazor + CSS, and community!"
 tags: [dotnet-stacks]
 comments: false
-header:
-    overlay_image: /assets/assets/img/stacks-17-card.png
-    overlay_filter: 0.8
-excerpt: EF Core 5 is done, Blazor CSS isolation, and more!
+share-img: /assets/img/stacks-17-card.png
+subtitle: EF Core 5 is done, Blazor CSS isolation, and more!
 ---
 
-![Newsletter image](/assets/img/newsletter-header.png)
+![Newsletter image](https://daveabrock.com/THE .NET STACKS.png)
 
 Just a reminder that in your methods, [try to write less than 914 "using var" statements](https://github.com/dotnet/roslyn/issues/47591).
 

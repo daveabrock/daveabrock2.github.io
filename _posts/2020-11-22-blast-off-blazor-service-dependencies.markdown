@@ -1,11 +1,9 @@
 ---
 date: "2020-11-22"
 title: "Blast Off with Blazor: Isolate and test your service dependencies"
-excerpt: "In this post, we refactor our component to inject an API service wrapper, to abstract away a direct HttpClient dependency."
+subtitle: "In this post, we refactor our component to inject an API service wrapper, to abstract away a direct HttpClient dependency."
 tags: [aspnet-core]
-header:
-    overlay_image: /assets/assets/img/service-dependency-card.png
-    overlay_filter: 0.8
+share-img: /assets/img/service-dependency-card.png
 ---
 
 So far in our series, we've [walked through the intro](https://daveabrock.com/2020/10/26/blast-off-blazor-intro), [wrote our first component](https://daveabrock.com/2020/10/28/blast-off-blazor-404-page), and [dynamically updated the HTML head from a component](https://daveabrock.com/2020/11/08/blast-off-blazor-update-head). 

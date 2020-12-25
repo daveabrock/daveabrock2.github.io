@@ -1,11 +1,9 @@
 ---
 date: "2020-12-09"
 title: "Use local function attributes with C# 9"
-excerpt: "In this quick post, I introduce how to use attributes on local functions in C# 9."
+subtitle: "In this quick post, I introduce how to use attributes on local functions in C# 9."
 tags: [csharp, csharp-9]
-header:
-    overlay_image: /assets/assets/img/local-attributes.png
-    overlay_filter: 0.8
+share-img: /assets/img/local-attributes.png
 ---
 
 If you look at what's new in C# 9, you'll see records, init-only properties, and top-level statements [get all the glory](https://docs.microsoft.com/dotnet/csharp/whats-new/csharp-9). And that's fine, because they're great. At the end of the bulleted list, I noticed [support for local attributes on local functions](https://docs.microsoft.com/dotnet/csharp/whats-new/csharp-9).

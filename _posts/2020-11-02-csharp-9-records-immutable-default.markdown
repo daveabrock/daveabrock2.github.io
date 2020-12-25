@@ -1,12 +1,9 @@
 ---
 date: "2020-11-02"
 title: "Are C# 9 records immutable by default?"
-excerpt: "Kinda?"
+subtitle: "Kinda?"
 tags: [csharp, csharp-9,dotnet]
-header:
-    overlay_image: /assets/assets/img/records-immutable.png
-    overlay_filter: 0.8
-
+share-img: /assets/img/records-immutable.png
 ---
 
 I'm seeing a lot of people excited about [records](https://daveabrock.com/2020/07/06/c-sharp-9-deep-dive-records) in C# 9, myself included. I wrote about records in excruciating detail this summer: but the gist is that records are types that allow you to perform value-like behaviors on properties with the promise of *immutability*. They [support `with` expressions](https://daveabrock.com/2020/07/06/c-sharp-9-deep-dive-records#use-with-expressions-with-records), [inheritance](https://daveabrock.com/2020/07/06/c-sharp-9-deep-dive-records#use-inheritance-with-the-with-expression), and [positional records](https://daveabrock.com/2020/07/06/c-sharp-9-deep-dive-records#implementing-positional-records), too. We can finally enforce immutability in C# without a bunch of hacky boilerplate.

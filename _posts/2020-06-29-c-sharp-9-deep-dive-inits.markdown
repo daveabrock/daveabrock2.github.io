@@ -1,11 +1,9 @@
 ---
 date: "2020-06-29"
 title: "C# 9 Deep Dive: Init-only features"
-excerpt: In a C# 9 deep dive, we will first walk through init-only features.
+subtitle: In a C# 9 deep dive, we will first walk through init-only features.
 tags: [csharp, csharp-9]
-header:
-    overlay_image: /assets/assets/img/init-only.png
-    overlay_filter: 0.8
+share-img: /assets/img/init-only.png
 ---
 
 **Note**: Originally published five months before the official release of C# 9, I've updated this post after the release to capture the latest updates.

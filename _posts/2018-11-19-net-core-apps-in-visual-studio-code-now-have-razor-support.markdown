@@ -1,7 +1,7 @@
 ---
 date: "2018-11-19"
 title: "Razor Support for ASP.NET Core Apps in Visual Studio Code"
-excerpt: VS Code now supports Razor for ASP.NET Core apps.
+subtitle: VS Code now supports Razor for ASP.NET Core apps.
 tags: [vs-code, dotnet-core, razor]
 ---
 

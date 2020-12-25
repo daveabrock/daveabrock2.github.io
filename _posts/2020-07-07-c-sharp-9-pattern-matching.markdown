@@ -1,11 +1,9 @@
 ---
 date: "2020-07-06"
 title: "C# 9 Deep Dive: Pattern Matching"
-excerpt: In a C# 9 deep dive, we explore improved pattern matching.
+subtitle: In a C# 9 deep dive, we explore improved pattern matching.
 tags: [csharp, csharp-9]
-header:
-    overlay_image: /assets/assets/img/pattern-matching.png
-    overlay_filter: 0.8
+share-img: /assets/img/pattern-matching.png
 ---
 
 In the [previous post of this series](https://daveabrock.com/2020/06/29/c-sharp-9-deep-dive-inits), we discussed the power of records. That was a heavy topic.

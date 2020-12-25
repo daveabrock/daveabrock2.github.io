@@ -1,11 +1,9 @@
 ---
 date: "2020-07-10"
 title: "Dev Discussions - Michael Crump on contributing to the Azure community"
-excerpt: We talk with Michael Crump about his contributions to the Azure community!
+subtitle: We talk with Michael Crump about his contributions to the Azure community!
 tags: [dotnet-stacks, dev-discussions]
-header:
-    overlay_image: /assets/assets/img/michael-crump-post.png
-    overlay_filter: 0.8
+share-img: /assets/img/michael-crump-post.png
 ---
 
 This is the full interview from my discussion with Michael Crump in my weekly (free!) newsletter, *The .NET Stacks*. Consider [subscribing today](https://dotnetstacks.com) to get this content right away! Subscribers don't have to wait two weeks to receive the content.

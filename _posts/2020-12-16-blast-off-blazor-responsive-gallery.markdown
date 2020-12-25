@@ -1,11 +1,10 @@
 ---
 date: "2020-12-16"
 title: "Blast Off with Blazor: Build a responsive image gallery"
-excerpt: "In this post, we build a responsive image gallery using Blazor and Tailwind CSS."
+subtitle: "In this post, we build a responsive image gallery using Blazor and Tailwind CSS."
 tags: [aspnet-core]
-header:
-    overlay_image: /assets/assets/img/image-gallery.png
-    overlay_filter: 0.8
+share-img: /assets/img/image-gallery.png
+readtime: true
 ---
 
 So far in our series, we've [walked through the intro](https://daveabrock.com/2020/10/26/blast-off-blazor-intro), [wrote our first component](https://daveabrock.com/2020/10/28/blast-off-blazor-404-page), [dynamically updated the HTML head from a component](https://daveabrock.com/2020/11/08/blast-off-blazor-update-head), [isolated our service dependencies](https://daveabrock.com/2020/11/22/blast-off-blazor-service-dependencies), and worked on [hosting our images over Azure Blob Storage and Cosmos DB](https://daveabrock.com/2020/12/13/blast-off-blazor-cosmos).

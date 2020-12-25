@@ -3,10 +3,8 @@ date: "2020-07-12"
 title: "The .NET Stacks #7: Azure SDKs, testing, community roundup, more!"
 tags: [dotnet-stacks]
 comments: false
-excerpt: A rundown on new Azure SDKs, test automation, community roundup, and more!
-header:
-    overlay_image: /assets/assets/img/stacks-7-card.png
-    overlay_filter: 0.8
+subtitle: A rundown on new Azure SDKs, test automation, community roundup, and more!
+share-img: /assets/img/stacks-7-card.png
 ---
 
 This is an archive of my weekly (free!) newsletter, *The .NET Stacks*. Consider [subscribing today](https://dotnetstacks.com) to get this content right away! Subscribers don't have to wait a week to receive the content.

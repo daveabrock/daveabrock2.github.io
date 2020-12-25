@@ -1,10 +1,8 @@
 ---
 date: "2020-06-13"
 title: "Dev Discussions - Isaac Levin talks PresenceLight"
-excerpt: Microsoft's Isaac Levin talks about his PresenceLight project.
-header:
-    overlay_image: /assets/assets/img/isaac-card.png
-    overlay_filter: 0.8
+subtitle: Microsoft's Isaac Levin talks about his PresenceLight project.
+share-img: /assets/img/isaac-card.png
 tags: [dotnet-stacks, dev-discussions]
 ---
 

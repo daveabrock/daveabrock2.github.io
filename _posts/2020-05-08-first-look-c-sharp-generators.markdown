@@ -1,7 +1,7 @@
 ---
 date: "2020-05-08"
 title: "First Look: C# Source Generators"
-excerpt: An initial look at the power of C# source generators.
+subtitle: An initial look at the power of C# source generators.
 tags: [csharp]
 ---
 

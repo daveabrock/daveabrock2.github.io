@@ -3,10 +3,8 @@ date: "2020-07-05"
 title: "The .NET Stacks #6: Blazor mobile bindings, EF update, ASP.NET Core A-Z, more!"
 tags: [dotnet-stacks]
 comments: false
-excerpt: A rundown on mobile Blazor bindings, EF updates, ASP.NET Core A-Z, and more!
-header:
-    overlay_image: /assets/assets/img/stacks-6-card.png
-    overlay_filter: 0.8
+subtitle: A rundown on mobile Blazor bindings, EF updates, ASP.NET Core A-Z, and more!
+share-img: /assets/img/stacks-6-card.png
 ---
 
 This is an archive of my weekly (free!) newsletter, *The .NET Stacks*. Consider [subscribing today](https://dotnetstacks.com) to get this content right away! Subscribers don't have to wait a week to receive the content.

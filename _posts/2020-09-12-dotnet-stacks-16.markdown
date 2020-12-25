@@ -3,13 +3,11 @@ date: "2020-09-12"
 title: "The .NET Stacks #16: App trimming and more on ML.NET"
 tags: [dotnet-stacks]
 comments: false
-header:
-    overlay_image: /assets/assets/img/stacks-16-card.png
-    overlay_filter: 0.8
-excerpt: We discuss app trimming in .NET 5, more on ML.NET with Luis Quintanilla, and more!
+share-img: /assets/img/stacks-16-card.png
+subtitle: We discuss app trimming in .NET 5, more on ML.NET with Luis Quintanilla, and more!
 ---
 
-![Newsletter image](/assets/img/newsletter-header.png)
+![Newsletter image](https://daveabrock.com/THE .NET STACKS.png)
 
 Welcome to 2020, where [Thomas Running is finally getting the credit he deserves](https://twitter.com/codinghorror/status/1301970691135160321).
 

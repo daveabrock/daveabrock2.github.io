@@ -1,11 +1,9 @@
 ---
 date: "2020-10-13"
 title: "Blast Off with Blazor, Azure Functions, and Azure Static Web Apps"
-excerpt: "Let's talk about deploying an Azure Static Web App running Blazor and Azure Functions."
+subtitle: "Let's talk about deploying an Azure Static Web App running Blazor and Azure Functions."
 tags: [blazor, azure, aspnet-core]
-header:
-    overlay_image: /assets/assets/img/static-web-apps-card.png
-    overlay_filter: 0.8
+share-img: /assets/img/static-web-apps-card.png
 ---
 
 Static sites are so great. After all, you're reading these words on a static site. Why bother with the overhead of dynamically generated files if you don't need them? It's not that static sites are boring—just that its served files, like HTML, aren't generated dynamically. With less to do, these sites perform better and are cheaper to run.

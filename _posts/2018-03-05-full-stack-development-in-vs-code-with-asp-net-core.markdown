@@ -1,7 +1,7 @@
 ---
 date: "2018-03-05"
 title: "Full-Stack Development in Visual Studio Code with ASP.NET Core"
-excerpt: VS Code is not just for the front-end! Learn how to integrate C# and even SQL Server in your VS Code workflow.
+subtitle: VS Code is not just for the front-end! Learn how to integrate C# and even SQL Server in your VS Code workflow.
 tags: [csharp, vs-code, sql, dotnet-core]
 ---
 

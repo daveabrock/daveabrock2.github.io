@@ -1,11 +1,9 @@
 ---
 date: "2020-06-18"
 title: 'Reduce mental energy with C# 9'
-excerpt: Learn how C# 9 makes things cleaner, more maintainable, and minimizes mental energy.
+subtitle: Learn how C# 9 makes things cleaner, more maintainable, and minimizes mental energy.
 tags: [csharp, csharp-9]
-header:
-    overlay_image: /assets/assets/img/mental-energy-card.png
-    overlay_filter: 0.8
+share-img: /assets/img/mental-energy-card.png
 ---
 
 {: .box-note}

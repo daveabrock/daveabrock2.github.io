@@ -2,14 +2,12 @@
 date: "2020-08-01"
 title: "The .NET Stacks #10: .NET 5 taking shape, how approachable is .NET, a talk with Jeremy Likness, more!"
 tags: [dotnet-stacks]
-header:
-    overlay_image: /assets/assets/img/stacks-10-card.png
-    overlay_filter: 0.8
-excerpt: We discuss the latest on .NET 5, the approachability of .NET, a talk with Jeremy Likness, and more!
+share-img: /assets/img/stacks-10-card.png
+subtitle: We discuss the latest on .NET 5, the approachability of .NET, a talk with Jeremy Likness, and more!
 comments: false
 ---
 
-![Newsletter image](/assets/img/newsletter-header.png)
+![Newsletter image](https://daveabrock.com/THE .NET STACKS.png)
 
 We had a tremendously busy week in .NET and it shows in this week's edition.
 

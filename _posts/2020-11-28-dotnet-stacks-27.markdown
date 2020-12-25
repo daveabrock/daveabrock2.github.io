@@ -3,13 +3,11 @@ date: "2020-11-28"
 title: "The .NET Stacks #27: Giving some 💜 to under-the-radar ASP.NET Core 5 features"
 tags: [dotnet-stacks]
 comments: false
-header:
-    overlay_image: /assets/assets/img/stacks-27-card.png
-    overlay_filter: 0.8
-excerpt: This week, we look at some under-the-radar ASP.NET Core 5 features, and look around the community.
+share-img: /assets/img/stacks-27-card.png
+subtitle: This week, we look at some under-the-radar ASP.NET Core 5 features, and look around the community.
 ---
 
-![Newsletter image](/assets/img/newsletter-header.png)
+![Newsletter image](https://daveabrock.com/THE .NET STACKS.png)
 
 *Note: This is the published version of my free, weekly newsletter, The .NET Stacks. It was originally sent to subscribers on November 23, 2020. Subscribe at the bottom of this post to get the content right away!*
 

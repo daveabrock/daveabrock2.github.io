@@ -1,11 +1,9 @@
 ---
 date: "2020-09-19"
 title: "Dev Discussions - Isaac Abraham"
-excerpt: In the latest interview, I talk with Isaac Abraham about his journey to F#.
+subtitle: In the latest interview, I talk with Isaac Abraham about his journey to F#.
 tags: [dotnet-stacks, dev-discussions]
-header:
-    overlay_image: /assets/assets/img/abraham-card.png
-    overlay_filter: 0.8
+share-img: /assets/img/abraham-card.png
 ---
 
 This is the full interview from my discussion with Isaac Abraham in my weekly (free!) newsletter, *The .NET Stacks*. Consider [subscribing today](https://dotnetstacks.com)!

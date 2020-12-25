@@ -1,11 +1,9 @@
 ---
 date: "2020-04-19"
 title: "Tweeting New GitHub Pages Posts from GitHub Actions"
-excerpt: Use the power of GitHub Actions to tweet GitHub pages post from a CI pipeline.
+subtitle: Use the power of GitHub Actions to tweet GitHub pages post from a CI pipeline.
 tags: [github, github-actions, ci-cd]
-header:
-    overlay_image: /assets/assets/img/tweet-gh-actions.png
-    overlay_filter: 0.8
+share-img: /assets/img/tweet-gh-actions.png
 ---
 
 For the last few years, I hosted my blog on the [Ghost platform](https://ghost.org/). It was a fast, Node-powered CMS, which allowed for stupid-simple publishing: I could get in, write, and get out. However, I was looking at another annual bill for $220 and I wanted to find a better (and cheaper) way. I knew of the myriad of static site generators out there today. I eventually landed on [Jekyll + GitHub Pages](https://pages.github.com/). A month in, I'm happy that GitHub Pages gives me the flexibility to customize as I wanted, but also the simplicity. I can push a markdown file to GitHub, and then deploy to daveabrock.com automatically. All for just the cost of my domain name ($9 a year)!

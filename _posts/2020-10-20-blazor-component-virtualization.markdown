@@ -1,11 +1,9 @@
 ---
 date: "2020-10-20"
 title: "Improve rendering performance with Blazor component virtualization"
-excerpt: "Use Blazor component virtualization to improve perceived performance of components that work with large data sets."
+subtitle: "Use Blazor component virtualization to improve perceived performance of components that work with large data sets."
 tags: [blazor, aspnet-core]
-header:
-    overlay_image: /assets/assets/img/virtualization-card.png
-    overlay_filter: 0.8
+share-img: /assets/img/virtualization-card.png
 ---
 
 When measuring web performance—especially on page load—it's not always about a consistent metric, such as how quickly the entire HTML tree loads from the server. It's helpful to think in terms of [perceived performance](https://developer.mozilla.org/en-US/docs/Learn/Performance/perceived_performance)—do you understand what needs to be rendered now, and what can be rendered later? End users should never have to wait for something that, well, can wait.

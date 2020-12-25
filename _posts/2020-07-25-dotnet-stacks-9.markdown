@@ -3,13 +3,11 @@ date: "2020-07-25"
 title: "The .NET Stacks #9: Project Coyote, new Razor editor, and more!"
 tags: [dotnet-stacks]
 comments: false
-header:
-    overlay_image: /assets/assets/img/stacks-9-card.png
-    overlay_filter: 0.8
-excerpt: We discuss Project Coyote, a new Visual Studio Razor editor, and more!
+share-img: /assets/img/stacks-9-card.png
+subtitle: We discuss Project Coyote, a new Visual Studio Razor editor, and more!
 ---
 
-![Newsletter image](/assets/img/newsletter-header.png)
+![Newsletter image](https://daveabrock.com/THE .NET STACKS.png)
 
 So, what do you think? I changed newsletter providers and got a new look (thanks to [@comfycoder](https://twitter.com/comfycoder) for the logo help). I hope you like it. It works on my machine, and I hope it works on yours too. 😎
 

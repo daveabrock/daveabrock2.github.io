@@ -1,11 +1,9 @@
 ---
 date: "2020-12-04"
 title: "Use ASP.NET Core route-to-code for simple JSON APIs"
-excerpt: "In this post, we explore how you can use route-to-code instead of controllers, and the benefits and drawbacks."
+subtitle: "In this post, we explore how you can use route-to-code instead of controllers, and the benefits and drawbacks."
 tags: [aspnet-core, apis]
-header:
-    overlay_image: /assets/assets/img/route-to-code-card.png
-    overlay_filter: 0.8
+share-img: /assets/img/route-to-code-card.png
 ---
 
 When you need to write an API in ASP.NET Core, you've traditionally been forced to use [ASP.NET Core MVC](https://docs.microsoft.com/aspnet/core/web-api/?view=aspnetcore-5.0). While it's very mature and full-featured, it also runs against the core principles of ASP.NET Core—it's not lightweight or as efficient as other ASP.NET Core offerings. As a result you're saddled with using all of a framework, even if you aren't using a lot of its features. In most cases, you're doing your logic somewhere else and the execution context (the CRUD actions over HTTP) deserves better.

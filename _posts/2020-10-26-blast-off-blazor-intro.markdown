@@ -1,11 +1,9 @@
 ---
 date: "2020-10-26"
 title: "Blast Off with Blazor: Get to know Blazor and our project"
-excerpt: "We kick off our series by talking about Blazor, reviewing our code for the first time, and explaining how to run our project."
+subtitle: "We kick off our series by talking about Blazor, reviewing our code for the first time, and explaining how to run our project."
 tags: [blazor, aspnet-core]
-header:
-    overlay_image: /assets/assets/img/blast-off-intro.png
-    overlay_filter: 0.8
+share-img: /assets/img/blast-off-intro.png
 ---
 
 A couple of weeks ago, I wrote about [deploying an Azure Static Web App with Blazor and Azure Functions](https://daveabrock.com/2020/10/13/azure-functions-static-apps-blazor). In that post, I talked about using the app I built as a base for an upcoming Blazor series. This is it!

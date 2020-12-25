@@ -1,11 +1,9 @@
 ---
 date: "2020-07-14"
 title: "C# 9 Deep Dive: Target Typing and Covariant Returns"
-excerpt: In a C# 9 deep dive, we talk about target typing and covariant returns.
+subtitle: In a C# 9 deep dive, we talk about target typing and covariant returns.
 tags: [csharp, csharp-9]
-header:
-    overlay_image: /assets/assets/img/target-typing-card.png
-    overlay_filter: 0.8
+share-img: /assets/img/target-typing-card.png
 ---
 
 We've been quite busy, my friends. In this C# 9 deep dive series, we've looked at [init-only features](https://daveabrock.com/2020/06/29/c-sharp-9-deep-dive-inits), [records](https://daveabrock.com/2020/07/06/c-sharp-9-deep-dive-records), [pattern matching](https://daveabrock.com/2020/07/06/c-sharp-9-pattern-matching), and then [top-level programs](https://daveabrock.com/2020/07/09/c-sharp-9-top-level-programs). To complete this series (before showing off everything in a single app), we'll discuss the last two items featured in [the Build 2020 announcement](https://devblogs.microsoft.com/dotnet/welcome-to-c-9-0/#improved-target-typing): target typing and covariant returns. These are not related, but I've decided to bundle these in a single blog post.

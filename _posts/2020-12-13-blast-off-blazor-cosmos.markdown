@@ -1,11 +1,9 @@
 ---
 date: "2020-12-13"
 title: "Blast Off with Blazor: Integrate Cosmos DB with Blazor WebAssembly"
-excerpt: "In this post, I integrate Cosmos DB with our project."
+subtitle: "In this post, I integrate Cosmos DB with our project."
 tags: [aspnet-core]
-header:
-    overlay_image: /assets/assets/img/cosmos-wasm.png
-    overlay_filter: 0.8
+share-img: /assets/img/cosmos-wasm.png
 ---
 
 So far in our series, we've [walked through the intro](https://daveabrock.com/2020/10/26/blast-off-blazor-intro), [wrote our first component](https://daveabrock.com/2020/10/28/blast-off-blazor-404-page), [dynamically updated the HTML head from a component](https://daveabrock.com/2020/11/08/blast-off-blazor-update-head), and [isolated our service dependencies](https://daveabrock.com/2020/11/22/blast-off-blazor-service-dependencies).

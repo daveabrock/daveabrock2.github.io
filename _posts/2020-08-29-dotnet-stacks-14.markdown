@@ -3,13 +3,11 @@ date: "2020-08-29"
 title: "The .NET Stacks #14: Checking in on NuGet changes, many-to-many in EF Core, community roundup, and more!"
 tags: [dotnet-stacks]
 comments: false
-header:
-    overlay_image: /assets/assets/img/stacks-14-card.png
-    overlay_filter: 0.8
-excerpt: We discuss many-to-many in EF Core 5, check in with upcoming NuGet changes, and look at the busy week in the .NET community!
+share-img: /assets/img/stacks-14-card.png
+subtitle: We discuss many-to-many in EF Core 5, check in with upcoming NuGet changes, and look at the busy week in the .NET community!
 ---
 
-![Newsletter image](/assets/img/newsletter-header.png)
+![Newsletter image](https://daveabrock.com/THE .NET STACKS.png)
 
 Happy Monday. Do you ever [watch a satire and think it's a documentary](https://www.youtube.com/watch?v=y8OnoxKotPQ)?
 

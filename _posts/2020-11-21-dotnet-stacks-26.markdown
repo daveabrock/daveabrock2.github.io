@@ -3,13 +3,11 @@ date: "2020-11-21"
 title: "The .NET Stacks #26: .NET 5 has arrived, let's party"
 tags: [dotnet-stacks]
 comments: false
-header:
-    overlay_image: /assets/assets/img/stacks-26-card.png
-    overlay_filter: 0.8
-excerpt: This week, we look at the .NET Conf content and also discuss the buzz around dependency injection.
+share-img: /assets/img/stacks-26-card.png
+subtitle: This week, we look at the .NET Conf content and also discuss the buzz around dependency injection.
 ---
 
-![Newsletter image](/assets/img/newsletter-header.png)
+![Newsletter image](https://daveabrock.com/THE .NET STACKS.png)
 
 *Note: This is the published version of my free, weekly newsletter: The .NET Stacks—originally sent to subscribers on November 16, 2020. Subscribe at the bottom of this post to get the content right away!*
 

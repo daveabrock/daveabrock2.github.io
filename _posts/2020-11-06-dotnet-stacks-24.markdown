@@ -3,13 +3,11 @@ date: "2020-11-06"
 title: "The .NET Stacks #24: Blazor readiness and James Hickey on Coravel"
 tags: [dotnet-stacks]
 comments: false
-header:
-    overlay_image: /assets/assets/img/stacks-24-card.png
-    overlay_filter: 0.8
-excerpt: This week, Blazor readiness and a talk with James Hickey.
+share-img: /assets/img/stacks-24-card.png
+subtitle: This week, Blazor readiness and a talk with James Hickey.
 ---
 
-![Newsletter image](/assets/img/newsletter-header.png)
+![Newsletter image](https://daveabrock.com/THE .NET STACKS.png)
 
 RIP, [James Bond](https://www.nytimes.com/2020/10/31/movies/sean-connery-dead.html). While watching *Goldfinger* last night, I forgot about the best feature of Connery Bond films: if you're confused about the plot, the villain will explain it all to you right before the movie ends. Ah, the original "let's have retro before the sprint ends."
 

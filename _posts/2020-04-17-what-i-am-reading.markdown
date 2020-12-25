@@ -2,6 +2,7 @@
 date: "2020-04-17"
 title: "What I'm Reading (Week of 4/14/20)"
 tags: [what-i-am-reading]
+readtime: true
 ---
 
 Here's a weekly Friday shout-out of articles, videos, and other content I found interesting. 

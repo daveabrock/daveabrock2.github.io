@@ -1,10 +1,8 @@
 ---
 date: "2020-07-28"
 title: "Talk with Groot using the Microsoft Bot Framework and Azure sentiment analysis"
-excerpt: In this post, we use the Bot Framework to detect how a user really feels.
-header:
-    overlay_image: /assets/assets/img/groot-card.png
-    overlay_filter: 0.8
+subtitle: In this post, we use the Bot Framework to detect how a user really feels.
+share-img: /assets/img/groot-card.png
 tags: [csharp]
 ---
 

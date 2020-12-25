@@ -1,11 +1,9 @@
 ---
 date: "2020-11-08"
 title: "Blast Off with Blazor: Use .NET 5 to update the HTML head from a Blazor component"
-excerpt: "In the latest post, we'll learn how to update the HTML head dynamically using .NET 5."
+subtitle: "In the latest post, we'll learn how to update the HTML head dynamically using .NET 5."
 tags: [blazor, aspnet-core]
-header:
-    overlay_image: /assets/assets/img/update-head.png
-    overlay_filter: 0.8
+share-img: /assets/img/update-head.png
 ---
 
 So far in this series, we've [walked through a project intro](https://daveabrock.com/2020/10/26/blast-off-blazor-intro) and also [got our feet wet with our first component](https://daveabrock.com/2020/10/28/blast-off-blazor-404-page).

@@ -1,7 +1,7 @@
 ---
 date: "2018-11-12"
 title: "Share Blazor Components with Shared Class Libraries"
-excerpt: Use shared class libraries to share Blazor components across projects.
+subtitle: Use shared class libraries to share Blazor components across projects.
 tags: [blazor, csharp, dotnet-core]
 ---
 

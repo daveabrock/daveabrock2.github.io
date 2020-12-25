@@ -2,10 +2,8 @@
 date: "2020-08-14"
 title: "C# 9: Records Revisited"
 tags: [csharp, csharp-9]
-header:
-    overlay_image: /assets/assets/img/records-revisited.png
-    overlay_filter: 0.8
-excerpt: We learn a few more things about records using the released C# 9 spec proposal.
+share-img: /assets/img/records-revisited.png
+subtitle: We learn a few more things about records using the released C# 9 spec proposal.
 ---
 
 We had a lot of fun [playing with](https://daveabrock.com/2020/06/29/c-sharp-9-deep-dive-inits) the [new C# 9 features](https://devblogs.microsoft.com/dotnet/welcome-to-c-9-0/) over the last few months. As with learning anything brand new, we had to decipher the info the best we could: we went off the [announcement in May during Build](https://devblogs.microsoft.com/dotnet/welcome-to-c-9-0/), meeting minutes and GitHub issues from the team, and good old trial and error.

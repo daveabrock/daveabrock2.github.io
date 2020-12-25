@@ -1,13 +1,11 @@
 ---
 date: "2020-09-26"
 title: "Dev Discussions - Phillip Carter"
-excerpt: In the latest interview, we talk with Phillip Carter.
+subtitle: In the latest interview, we talk with Phillip Carter.
 tags: [dotnet-stacks, dev-discussions]
-excerpt: In the latest interview, I talk with Phillip Carter to get the Microsoft perspective on F#.
+subtitle: In the latest interview, I talk with Phillip Carter to get the Microsoft perspective on F#.
 tags: [dotnet-stacks, dev-discussions]
-header:
-    overlay_image: /assets/assets/img/carter-card.png
-    overlay_filter: 0.8
+share-img: /assets/img/carter-card.png
 ---
 
 This is the full interview from my discussion with Phillip Carter in my weekly (free!) newsletter, *The .NET Stacks*. Consider [subscribing today](https://dotnetstacks.com)!
